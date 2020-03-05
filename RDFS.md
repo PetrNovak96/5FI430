@@ -7,3 +7,9 @@ Tím se dělá to schéma.
 * **rdfs:subClassOf**
 * **rdfs:Resource**
 * **rdfs:Label**
+* **rdfs:Property**
+* **rdfs:subPropertyOf**
+* **rdfs:Domain** -> definiční obor
+* **rdfs:Range** -> obor hodnot
+* 
+
